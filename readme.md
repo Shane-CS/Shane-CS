@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shane</h1>
 <h3 align="center">A passionate studnet and developer from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shane-cs" alt="shane-cs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shane-cs&theme=onedark" alt="shane-cs" /></a> </p>
+
+![shane-cs github-trophies](https://stats.dooboo.io/api/github-trophies?login=shane-cs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
